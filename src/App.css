@@ -1,0 +1,153 @@
+
+h1 {
+  color: #1e81b0; 
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
+h2 {
+  color: #1E90FF;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.join-section h2 {
+  color: #32CD32;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+.congrats-message {
+  color: #28a745; 
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+
+
+.question-section h2 {
+  color: #21130d; 
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+
+.result-section h2 {
+  color: #FFD700; 
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}1433ff
+
+
+p {
+  color: #333; 
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+
+.error-message {
+  color: #FF0000; 
+  font-weight: bold;
+}
+
+
+button.submit-btn {
+  background-color: #28a745; 
+  color: white;
+}
+
+button.skip-btn {
+  background-color: #ffc107; 
+  color: white;
+}
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aquamarine;
+  margin: 10px;
+}
+
+.logo {
+  height: 40px;
+}
+
+
+hr {
+  width: 100%;
+  height: 1px;
+  background-color: black;
+}
+
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #76b5c5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+
+.app {
+  text-align: center;
+  width: 80%;
+  max-width: 500px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+
+input {
+  padding: 8px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  width: 80%;
+}
+
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff; 
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+.options {
+  margin-top: 20px;
+}
